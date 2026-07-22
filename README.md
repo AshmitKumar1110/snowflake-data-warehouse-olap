@@ -1,9 +1,11 @@
 # Yelp Climate Data Warehouse for Reporting & OLAP
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Warehouse-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ETL-336791)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
+![SQL](https://img.shields.io/badge/SQL-Data%20Warehouse-blue?logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-29B5E8?logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ETL-336791?logo=postgresql&logoColor=white)
+![OLAP](https://img.shields.io/badge/OLAP-Analytics-orange)
+![Star%20Schema](https://img.shields.io/badge/Star%20Schema-Dimensional%20Modeling-success)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ## Overview
 
 This project demonstrates the design and implementation of a complete **Data Warehouse** using Yelp business data and climate datasets. The solution follows a layered architecture:
